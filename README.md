@@ -1,4 +1,4 @@
-# 🧪 MolLab — Interactive 2D/3D Chemical Structure Editor & Viewer
+# 🧪 AlcheMol — Interactive 2D/3D Chemical Structure Editor & Viewer
 
 [繁體中文](#繁體中文) | [English](#english)
 
@@ -6,7 +6,7 @@
 
 ## 繁體中文
 
-**MolLab** 是一款純前端、無需後端伺服器的互動式化學分子繪圖與 3D 結構視覺化網頁應用程式。專為有機化學學習、反應機構推演與立體構象觀察設計，支援即時 2D 鍵線式繪製、自動八隅體與隱含氫原子計算、結構異構物辨識，以及 3D 分子構象轉換與單鍵二面角（Torsion Angle）旋轉。
+**AlcheMol** 是一款純前端、無需後端伺服器的互動式化學分子繪圖與 3D 結構視覺化網頁應用程式。專為有機化學學習、反應機構推演與立體構象觀察設計，支援即時 2D 鍵線式繪製、自動八隅體與隱含氫原子計算、結構異構物辨識，以及 3D 分子構象轉換與單鍵二面角（Torsion Angle）旋轉。
 
 ### ✨ 核心功能
 
@@ -49,7 +49,7 @@
 
 ## English
 
-**MolLab** is a zero-backend, browser-based interactive 2D chemical structure editor and 3D molecular viewer. Built for organic chemistry education, reaction mechanism illustration, and stereochemical conformation analysis, it combines real-time 2D skeletal drawing, automated valence/implicit hydrogen calculation, constitutional isomer recognition, and interactive 3D conformer generation with rotatable torsion angles.
+**AlcheMol** is a zero-backend, browser-based interactive 2D chemical structure editor and 3D molecular viewer. Built for organic chemistry education, reaction mechanism illustration, and stereochemical conformation analysis, it combines real-time 2D skeletal drawing, automated valence/implicit hydrogen calculation, constitutional isomer recognition, and interactive 3D conformer generation with rotatable torsion angles.
 
 ### ✨ Key Features
 
@@ -97,8 +97,8 @@ This project is powered by the following open-source libraries and public scient
 * **[3Dmol.js](https://3dmol.csb.pitt.edu/)** — WebGL-accelerated 3D molecular visualization library. Licensed under the **BSD 3-Clause License**.
 * **[OpenChemLib JS](https://github.com/cheminfo/openchemlib-js)** — Cheminformatics engine used for SMILES/Molfile parsing, 2D coordinate generation, molecular formula calculation, and 3D conformer generation. Licensed under the **BSD 3-Clause License**.
 * **[PubChem (NCBI / NIH)](https://pubchem.ncbi.nlm.nih.gov/)** — Public chemical structure and property data retrieved via the PubChem PUG REST API.
-* **Disclaimer / 免責聲明：** MolLab is an independent educational and research visualization tool and is not affiliated with or endorsed by MolView.
+* **Disclaimer / 免責聲明：** AlcheMol is an independent educational and research visualization tool and is not affiliated with or endorsed by MolView.
 
 ## 📄 License
 
-The original source code of **MolLab** is licensed under the **MIT License**.
+The original source code of **AlcheMol** is licensed under the **MIT License**.
